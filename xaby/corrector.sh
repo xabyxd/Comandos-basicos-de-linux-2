@@ -5,7 +5,7 @@
 rm -r correccion.txt
 
 # Indicador/Seperador
-echo "Ficheros." >> correccion.txt
+echo "----Ficheros." >> correccion.txt
 
 # Deteccion de ficheros de texto lol-account.txt y vieja-guild.txt.
 if [ -f games/moba/lol-account.txt ]; then
@@ -23,7 +23,7 @@ fi
 
 
 # Indicador/Seperador
-echo "Directorios." >> correccion.txt
+echo "----Directorios." >> correccion.txt
 
 
 # Deteccion de los directorios carreras, rol, moba, disparos, simulacion.
