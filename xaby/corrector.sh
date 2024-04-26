@@ -36,35 +36,35 @@ fi
 
 # Directorio rol deberia no existir
 if [ -d games/rol ]; then
-    echo "punto 2: El directorio existe. incorrecto.." >> correccion.txt
+    echo "punto 2.1: El directorio existe. incorrecto.." >> correccion.txt
 else
-    echo "punto 2: El directorio no existe. correcto!" >> correccion.txt
+    echo "punto 2.1: El directorio no existe. correcto!" >> correccion.txt
 fi
 
 # Directorio moba deberia existir
 if [ -d games/moba ]; then
-    echo "punto 2: El directorio existe. correcto!" >> correccion.txt
+    echo "punto 2.2: El directorio existe. correcto!" >> correccion.txt
 else
-    echo "punto 2: El directorio no existe. incorrecto.." >> correccion.txt
+    echo "punto 2.2: El directorio no existe. incorrecto.." >> correccion.txt
 fi
 
 # Directorio disparos deberia existir
 if [ -d games/disparos ]; then
-    echo "punto 2: El directorio existe. correcto!" >> correccion.txt
+    echo "punto 2.3: El directorio existe. correcto!" >> correccion.txt
 else
-    echo "punto 2: El directorio no existe. incorrecto.." >> correccion.txt
+    echo "punto 2.3: El directorio no existe. incorrecto.." >> correccion.txt
 fi
 
 # Directorio simulacion deberia existir
 if [ -d games/simulacion ]; then
-    echo "punto 2: El directorio existe. correcto!" >> correccion.txt
+    echo "punto 2.4: El directorio existe. correcto!" >> correccion.txt
 else
-    echo "punto 2: El directorio no existe. incorrecto.." >> correccion.txt
+    echo "punto 2.4: El directorio no existe. incorrecto.." >> correccion.txt
 fi
 
 # Directorio carreras deberia existir
 if [ -d games/carreras ]; then
-    echo "punto 2: El directorio existe. correcto!" >> correccion.txt
+    echo "punto 2.5: El directorio existe. correcto!" >> correccion.txt
 else
-    echo "punto 2: El directorio no existe. incorrecto.." >> correccion.txt
+    echo "punto 2.5: El directorio no existe. incorrecto.." >> correccion.txt
 fi
