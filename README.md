@@ -26,6 +26,4 @@ El repositorio está organizado de la siguiente manera:
 Para utilizar cualquiera de los scripts , simplemente clona el repositorio en tu máquina local utilizando el siguiente comando:
 
 ```bash
-sudo apt install tree
-
-git clone https://github.com/xaby-xd/Comandos-basicos-de-linux-2.git
+sudo apt install tree -y | git clone https://github.com/xaby-xd/Comandos-basicos-de-linux-2.git
