@@ -1,6 +1,6 @@
 # Comandos Básicos y Correctores en Bash
 
-¡Bienvenido al repositorio de Comandos Básicos y Correctores en Bash! Este proyecto es una colaboración entre [Arbolencio](https://github.com/Arbolencio) y [xaby](https://github.com/xaby-xd) , donde compartimos scripts útiles y soluciones para diversos ejercicios.
+¡Bienvenido al repositorio de Comandos Básicos y Correctores en Bash! Este proyecto es una colaboración entre [Arbolencio](https://github.com/Arbolencio) y [xabyxd](https://github.com/xabyxd) , donde compartimos scripts útiles y soluciones para diversos ejercicios.
 
 ## 🌟 Acerca del Proyecto
 
@@ -19,7 +19,7 @@ Además, hemos incluido una colección de comandos básicos de Bash que todo usu
 El repositorio está organizado de la siguiente manera:
 
 - `/Arbolencio`
-- `/xaby`
+- `/xabyxd`
 
 ## 🚀 Cómo Usar
 
